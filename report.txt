@@ -1,0 +1,6 @@
+The requirements.txt file might not have worked as expected due 
+to incomplete package listings, dependency conflicts, platform-specific issues, 
+or differences between Conda and Pip environments. Manually verify the requirements.txt content, 
+address any version conflicts, and consider using conda env export to generate an accurate 
+environment.yml file. Testing the requirements.txt file in a new virtual environment can help 
+identify and resolve these issues, ensuring all necessary dependencies are correctly installed.
